@@ -1,6 +1,6 @@
 # Data-Curation-
-Data repository for Data Curation term project
-File Listing:
+Data repository for Data Curation term project<br />
+File Listing:<br />
 KUfacility_register_data_for_uploadWAISWAetalPLOSONE82020 = .xlsx file containing all raw data from the study.<br />
 WAISWA_PTBiKenyaUgandaMatReg2016to2018_Readme20aug2020 = .txt file containing the metadata from the original study.<br />
 WAISWA_PTBIKUMatReg_DataDictionary20Aug2020 = .xlsx file containing the data dictionary explaining the variables in the raw data spreadsheet.<br />
