@@ -1,5 +1,4 @@
 # Maternity-Registry-Dataset-
-Data repository for Data Curation term project<br />
 File Listing:<br />
 Data Curation Final Report = .docx file containing the final report for the Data Curation term project. Includes the Data and Metadata and repository profiles.<br />
 KUfacility_register_data_for_uploadWAISWAetalPLOSONE82020 = .xlsx file containing all raw data from the study.<br />
