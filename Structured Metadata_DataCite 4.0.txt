@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">doi_10.7272_Q6ZG6QFC__v3</identifier>
+<titles>
+	<title>PTBiKenyaUgandaMatReg2016to2018: Maternity Register Dataset</title>
+</titles>
+<creators>
+	<creator>
+		<creatorName>Waiswa, Peter</creatorName>
+		<givenName>Peter</givenName>
+		<familyName>Waiswa</familyName>
+		<affiliation>Makerere University</affiliation>
+	</creator>
+	<creator>
+		<creatorName>Higgins, Brennan V.</creatorName>
+		<givenName>Brennan V.</givenName>
+		<familyName>Higgins</familyName>
+		<affiliation>University of California, San Fransisco</affiliation>
+	</creator>
+	<creator>
+		<creatorName>Mubiri, Paul</creatorName>
+		<givenName>Paul</givenName>
+		<familyName>Mubiri</familyName>
+		<affiliation>Makerere University</affiliation>
+	</creator>
+</creators>
+<publisher>PSI Dataverse</publisher>
+<publicationYear>2020</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Clinical Data</resourceType>
+<subjects>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Labor (Obstetrics)</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Childbirth</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Stillbirth</subject>
+	<subject subjectScheme="LCSH" schemeURI="https://id.loc.gov/authorities/subjects.html">Pregnancy</subject>
+</subjects>
+<contributors>
+	<contributor contributorType="ContactPerson">
+		<contributorName>Walker, Dilys</contributorName>
+		<givenName>Dilys</givenName>
+		<familyName>Walker</familyName>
+		<affiliation>University of California San Francisco</affiliation>
+	</contributor>
+	<contributor contributorType="ContactPerson">
+		<contributorName>Waiswa, Peter</contributorName>
+		<givenName>Peter</givenName>
+		<familyName>Waiswa</familyName>
+		<affiliation>Makerere University</affiliation>
+	</contributor>
+	<contributor contributorType="ContactPerson">
+		<contributorName>Butrick, Elizabeth</contributorName>
+		<givenName>Elizabeth</givenName>
+		<familyName>Butrick</familyName>
+		<affiliation>University of California San Francisco</affiliation>
+	</contributor>
+</contributors>
+<dates>
+	<date dateType="Collected">2016-10-01/2018-03-31</date>
+</dates>
+<relatedIdentifiers>
+	<relatedIdentifier relatedIdentifierType="DOI" relationType="IsCitedBy">doi:10.1371/journal.pone.0233845</relatedIdentifier>
+</relatedIdentifiers>
+<descriptions>
+	<description descriptionType="Abstract">This study aims to contribute to global quality improvement efforts by characterizing facility-based pregnancy outcomes in Kenya and Uganda including maternal, neonatal, and fetal outcomes at the time of delivery and neonatal discharge outcomes using strengthened maternity registers.</description>
+</descriptions>
+<geoLocations>
+	<geoLocation>
+		<geoLocationPlace>Kenya</geoLocationPlace>
+	</geoLocation>
+	<geoLocation>
+		<geoLocationPlace>Uganda</geoLocationPlace>
+	</geoLocation>
+</geoLocations>
+<language>eng</language>
+<rightsList>
+	<rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0</rights>
+</rightsList>
+<fundingReferences>
+	<fundingReference>
+		<funderName>Bill and Melinda Gates Foundation</funderName>
+		<funderIdentifier funderIdentifierType="Other">OPP1107312</funderIdentifier>
+	</fundingReference>
+</fundingReferences>
+</resource>
